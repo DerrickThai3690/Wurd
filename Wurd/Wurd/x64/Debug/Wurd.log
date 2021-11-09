@@ -1,0 +1,12 @@
+﻿  StudentTextEditor.cpp
+D:\CS Projects\Wurd\Wurd\StudentTextEditor.cpp(94,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\CS Projects\Wurd\Wurd\StudentTextEditor.cpp(106,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\CS Projects\Wurd\Wurd\StudentTextEditor.cpp(116,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\CS Projects\Wurd\Wurd\StudentTextEditor.cpp(145,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\CS Projects\Wurd\Wurd\StudentTextEditor.cpp(182,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  StudentUndo.cpp
+D:\CS Projects\Wurd\Wurd\StudentUndo.cpp(32,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  StudentSpellCheck.cpp
+  main.cpp
+  Generating Code...
+  Wurd.vcxproj -> D:\CS Projects\Wurd\x64\Debug\Wurd.exe
